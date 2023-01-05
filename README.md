@@ -4,11 +4,11 @@
     <h1 align="center">✩&emsp;DodoLeReporter&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Saluuuuuuuuuuuuut;aBienvenue+sur+mon+profil!;Regarde+ce+que+je+fait+!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Saluuuuuuuuuuuuut;aaBienvenue+sur+mon+profil!;Regarde+ce+que+je+fait+!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=dodolereporter&color=grey">
 </p>
 <p align="center">
     <a href="https://leetcode.com/dodolereporter/"><img width="48%" src="https://leetcode.card.workers.dev/dodolereporter?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
